@@ -43,5 +43,6 @@ Ascii manual
 
 ## Other Innformation
 This project is maintained by 
-@ShadrackOkoth
+
 @KevinWasonga
+@kevwasonga
